@@ -1,5 +1,4 @@
 # cypress_voda
-cypress_vz
 
 Steps automated: first 5 steps covered in TC01/gherkin test case and 6-9 coved in TC02 test case.
 
